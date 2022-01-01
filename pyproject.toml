@@ -7,6 +7,8 @@ authors = ["Ankush <ankush357159@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 djangorestframework = "^3.13.1"
+django-rest-auth = "^0.9.5"
+uuid = "^1.30"
 
 [tool.poetry.dev-dependencies]
 
